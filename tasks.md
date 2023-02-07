@@ -67,6 +67,7 @@
 `function buttonClick4() {  
 //ваш код  
 }` 
+
 ![image](https://user-images.githubusercontent.com/113675674/217240004-79495ddd-dbd9-4187-b54a-eaeea1e75763.png)  
 ![image](https://user-images.githubusercontent.com/113675674/217240033-2972b831-773e-4592-8323-637221f56995.png)  
 

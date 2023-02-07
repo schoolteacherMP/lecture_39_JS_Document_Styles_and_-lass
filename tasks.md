@@ -14,8 +14,7 @@
 ### Написать функцию addClass  
 Написать функцию addClass, которая будет принимать элемент и класс, и добавлять этот класс к элементу.  
 Работать должна так:   
-const element = document.querySelector("#myDiv");  
-addClass(element, "myClass");  
+![image](https://user-images.githubusercontent.com/113675674/217232848-268ddfe1-b3dd-48b8-9398-b773b1e157d5.png)   
 
 ## Задача 3.   
 ### 

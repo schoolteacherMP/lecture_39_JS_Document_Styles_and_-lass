@@ -26,3 +26,7 @@
 ## Задача 7.   
 ### Работа с CSS  
 ![image](https://user-images.githubusercontent.com/113675674/217240143-c9376d36-ad4f-4e3f-b627-51a548dff61b.png)  
+
+## Задача 8.   
+### Блокирование полей ввода  
+![image](https://user-images.githubusercontent.com/113675674/217243482-9947ae29-cb71-4ee3-aef6-548bee22181c.png)  

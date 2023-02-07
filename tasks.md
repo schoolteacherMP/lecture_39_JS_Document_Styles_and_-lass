@@ -60,7 +60,16 @@
 ![image](https://user-images.githubusercontent.com/113675674/217238824-8df83447-be9c-4a37-a2dc-9608251bc108.png)  
 
 ## Задача 7.   
-### 
+### Работа с CSS  
+Создайте функцицю buttonClick4, которая будет менять цвет текста внутри инпута.  
+`<button onclick="buttonClick4()">Нажми на меня</button>`  
+`<input type="text" id="input" value="Какой-то текст!">`  
+`function buttonClick4() {  
+//ваш код  
+}` 
+![image](https://user-images.githubusercontent.com/113675674/217240004-79495ddd-dbd9-4187-b54a-eaeea1e75763.png)  
+![image](https://user-images.githubusercontent.com/113675674/217240033-2972b831-773e-4592-8323-637221f56995.png)  
+
 
 ## Задача 8.   
 ### 

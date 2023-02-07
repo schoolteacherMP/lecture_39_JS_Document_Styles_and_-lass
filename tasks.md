@@ -31,13 +31,32 @@
 `function buttonClick() {  
 //ваш код  
 }`  
+![image](https://user-images.githubusercontent.com/113675674/217239080-e89ce0b0-2788-4240-bae8-13f855ec7b1d.png)  
+![image](https://user-images.githubusercontent.com/113675674/217239122-ff995301-d056-4d94-8e36-3a1b8771647e.png)  
 
 
 ## Задача 5.   
-### 
+### Вывод содержимого инпута  
+Создайте функцицю buttonClick2, которая будет выводить алертом содержимое инпута.  
+`<button onclick="buttonClick2()">Нажми на меня</button>`  
+`<input type="text" id="input" value="???">`  
+`function buttonClick2() {  
+//ваш код  
+}`  
+![image](https://user-images.githubusercontent.com/113675674/217238906-433cdbea-f274-42bd-b81a-d69028dc3204.png)  
+![image](https://user-images.githubusercontent.com/113675674/217238962-42e63a34-c46d-42ab-ac89-c9910dcb1e7f.png)  
+
 
 ## Задача 6.   
-### 
+### Квадрат содержимого инпута  
+Создайте функцицю buttonClick3, которая будет водить алертом содержимое инпута, возведенное в квадрат.  
+`<button onclick="buttonClick3()">Нажми на меня</button>`  
+`<input type="text" id="input" placeholder="Введите число!">`  
+`function buttonClick3() {  
+//ваш код  
+}` 
+![image](https://user-images.githubusercontent.com/113675674/217238781-c94bed60-ce4d-45cd-8230-f48e70ab1852.png)  
+![image](https://user-images.githubusercontent.com/113675674/217238824-8df83447-be9c-4a37-a2dc-9608251bc108.png)  
 
 ## Задача 7.   
 ### 

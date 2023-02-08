@@ -84,11 +84,4 @@
 ![image](https://user-images.githubusercontent.com/113675674/217243415-1682bc25-6a1e-4b60-8de0-d6a2403aa79a.png)  
 
 
-## Задача 9.   
-### 
-
-## Задача 10.   
-### 
-
-
 

@@ -18,12 +18,17 @@
 
 ## Задача 3.   
 ### с помощью JavaScript  
+У вас есть такой HTML:  
+`<div class="div1">div 1</div>`  
 1. создать элемент div и добавить его перед div class="div1".  
 2. задать класс созданному элементу 'div2'  
 3. добавить  ему css свойства: background-color: gainsboro; padding: 10px;  
 4. клонировать созданный элемент с классом 'div2' и добавить его после div class="div1".  
 5. удалить элемент  div class="div1" и на его место вставить новый созданный элемент div class="div3"  
 6. div class="div3" добавить css свойства: background-color: red; padding: 10px;  
+Должно получиться так:  
+![image](https://user-images.githubusercontent.com/113675674/225556040-b7e04168-1855-4058-8981-52c0b4b4804c.png)  
+
 
 ## Задача 4.   
 ### Изменение текста в инпуте  

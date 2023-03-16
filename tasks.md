@@ -5,9 +5,9 @@
 2. Добавить текст внутри элемента с помощью JavaScript.  
 3. Добавить класс к элементу с помощью JavaScript.  
 4. Добавить стиль к элементу с помощью JavaScript:   
-- backgroundColor = "blue";  
-- color = "white";  
-- padding = "10px";  
+- background-сolor: blue;  
+- color: white;  
+- padding: 10px;  
 5. Добавить элемент в HTML с помощью JavaScript в начало body.  
 
 ## Задача 2.   

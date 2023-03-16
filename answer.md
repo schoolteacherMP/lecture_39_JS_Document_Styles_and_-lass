@@ -1,14 +1,14 @@
 ## Задача 1.   
 ### Создать элемент в HTML и добавить ему стиль с помощью JavaScript.  
-![image](https://user-images.githubusercontent.com/113675674/225545583-f4630b0b-5ed7-4b53-9d5b-bed90a9c7625.png)
+![image](https://user-images.githubusercontent.com/113675674/225545583-f4630b0b-5ed7-4b53-9d5b-bed90a9c7625.png)  
 
 ## Задача 2.   
 ### Написать функцию addClass  
-![image](https://user-images.githubusercontent.com/113675674/217232472-8f6a0dd6-eaf4-4243-b9de-ede13f475204.png)
+![image](https://user-images.githubusercontent.com/113675674/217232472-8f6a0dd6-eaf4-4243-b9de-ede13f475204.png)  
 
 ## Задача 3.   
 ### с помощью JavaScript  
-![image](https://user-images.githubusercontent.com/113675674/217236344-803f537a-4953-4426-8796-6b15795aebb0.png)  
+![image](https://user-images.githubusercontent.com/113675674/225555350-7d3a9d2e-f7ec-4265-bae6-dd04a29e16c0.png)  
 
 ## Задача 4.   
 ### Изменение текста в инпуте  

@@ -93,7 +93,7 @@ JS код:
 Прочитайте про [disabled](https://code.mu/ru/markup/manual/html/attr/disabled/)  
 `<button onclick="button1Click()">Заблокировать</button>`  
 `<button onclick="button2Click()">Отблокировать</button>`  
-`<input type="text" id="input" value="Какой-то текст!">`  
+`<input type="text" id="input5" value="Какой-то текст!">`  
 
 ![image](https://user-images.githubusercontent.com/113675674/217243374-36da6fe9-8aee-4b32-b05e-0b663382b124.png)  
 ![image](https://user-images.githubusercontent.com/113675674/217243415-1682bc25-6a1e-4b60-8de0-d6a2403aa79a.png)  

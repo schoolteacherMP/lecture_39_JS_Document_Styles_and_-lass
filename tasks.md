@@ -75,8 +75,10 @@ JS код:
 ## Задача 7.   
 ### Работа с CSS  
 Создайте функцицю buttonClick4, которая будет менять цвет текста внутри инпута.  
+HTML код:  
 `<button onclick="buttonClick4()">Нажми на меня</button>`  
-`<input type="text" id="input" value="Какой-то текст!">`  
+`<input type="text" id="input4" value="Какой-то текст!">`  
+JS код:  
 `function buttonClick4() {  
 //ваш код  
 }` 

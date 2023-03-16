@@ -33,8 +33,10 @@
 ## Задача 4.   
 ### Изменение текста в инпуте  
 Создайте функцицю buttonClick, которая будет менять текст в инпуте на "!!!".  
+HTML код:  
 `<button onclick="buttonClick()">Нажми на меня</button>`  
 `<input type="text" id="input" value="???">`  
+JS код:  
 `function buttonClick() {  
 //ваш код  
 }`  

@@ -40,8 +40,9 @@ JS код:
 `function buttonClick() {  
 //ваш код  
 }`  
-![image](https://user-images.githubusercontent.com/113675674/217239080-e89ce0b0-2788-4240-bae8-13f855ec7b1d.png)  
-![image](https://user-images.githubusercontent.com/113675674/217239122-ff995301-d056-4d94-8e36-3a1b8771647e.png)  
+![image](https://user-images.githubusercontent.com/113675674/225560836-575a69f6-a9f1-4671-a064-25d18d0c5ce2.png)    
+![image](https://user-images.githubusercontent.com/113675674/225560740-7addaaf9-3981-4da4-b4da-5d2e1dae63e6.png)  
+
 
 
 ## Задача 5.   

@@ -40,9 +40,8 @@ JS код:
 `function buttonClick() {  
 //ваш код  
 }`  
-![image](https://user-images.githubusercontent.com/113675674/225560836-575a69f6-a9f1-4671-a064-25d18d0c5ce2.png)    
-![image](https://user-images.githubusercontent.com/113675674/225560740-7addaaf9-3981-4da4-b4da-5d2e1dae63e6.png)  
-
+ ![image](https://user-images.githubusercontent.com/113675674/225561079-e2a6d242-2d0b-48c4-9fef-8c595b0d281e.png)  
+![image](https://user-images.githubusercontent.com/113675674/225561123-04b95744-766f-419b-a4ec-ad44207ee21f.png)  
 
 
 ## Задача 5.   
@@ -55,8 +54,8 @@ JS код:
 `function buttonClick2() {  
 //ваш код  
 }`  
-![image](https://user-images.githubusercontent.com/113675674/217238906-433cdbea-f274-42bd-b81a-d69028dc3204.png)  
-![image](https://user-images.githubusercontent.com/113675674/217238962-42e63a34-c46d-42ab-ac89-c9910dcb1e7f.png)  
+![image](https://user-images.githubusercontent.com/113675674/225560836-575a69f6-a9f1-4671-a064-25d18d0c5ce2.png)    
+![image](https://user-images.githubusercontent.com/113675674/225560740-7addaaf9-3981-4da4-b4da-5d2e1dae63e6.png) 
 
 
 ## Задача 6.   

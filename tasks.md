@@ -47,8 +47,10 @@ JS код:
 ## Задача 5.   
 ### Вывод содержимого инпута  
 Создайте функцицю buttonClick2, которая будет выводить алертом содержимое инпута.  
+HTML код:  
 `<button onclick="buttonClick2()">Нажми на меня</button>`  
 `<input type="text" id="input" value="???">`  
+JS код:  
 `function buttonClick2() {  
 //ваш код  
 }`  

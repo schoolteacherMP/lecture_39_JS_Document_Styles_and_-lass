@@ -63,7 +63,7 @@ JS код:
 Создайте функцицю buttonClick3, которая будет водить алертом содержимое инпута, возведенное в квадрат.  
 HTML код:  
 `<button onclick="buttonClick3()">Нажми на меня</button>`  
-`<input type="text" id="input" placeholder="Введите число!">`  
+`<input type="text" id="input3" placeholder="Введите число!">`  
 JS код:  
 `function buttonClick3() {  
 //ваш код  

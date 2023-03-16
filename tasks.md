@@ -1,14 +1,14 @@
 
 ## Задача 1.   
 ### Создать элемент в HTML и добавить ему стиль с помощью JavaScript.  
-1. Создать элемент с помощью JavaScript.    
+1. Создать элемент (div) с помощью JavaScript.    
 2. Добавить текст внутри элемента с помощью JavaScript.  
 3. Добавить класс к элементу с помощью JavaScript.  
 4. Добавить стиль к элементу с помощью JavaScript:   
 - backgroundColor = "blue";  
 - color = "white";  
 - padding = "10px";  
-5. Добавить элемент в HTML с помощью JavaScript.  
+5. Добавить элемент в HTML с помощью JavaScript в начало body.  
 
 ## Задача 2.   
 ### Написать функцию addClass  

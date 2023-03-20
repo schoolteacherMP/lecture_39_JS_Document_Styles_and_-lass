@@ -112,5 +112,19 @@ JS код:
 ![image](https://user-images.githubusercontent.com/113675674/217243374-36da6fe9-8aee-4b32-b05e-0b663382b124.png)  
 ![image](https://user-images.githubusercontent.com/113675674/217243415-1682bc25-6a1e-4b60-8de0-d6a2403aa79a.png)  
 
-
+## Задача 9.   
+### Меняем цвет фона   
+Есть две кнопки и массив `let colorsBack = ['chocolate', 'red', 'blue', 'green', 'yellow', 'blueviolet', 'aqua', 'cornflowerblue', 'darkslateblue', 'coral', 'darkgoldenrod'];`  
+При нажатии на первую кнопку меняется бэкграунд у `body`,  рандомно выбирается цвет из массива `colorsBack` .   
+При нажатии на вторую кнопку бэкграйнд у `body` становится первоначальным.  
+HTML код:  
+    `<button id="changeColorButton" onclick="changeBackgroundColor()">Change Color</button>`  
+    `<button id="resetColorButton" onclick="resetBackgroundColor()">Reset Color</button>`  
+JS код:  
+`function changeBackgroundColor() {  
+//ваш код  
+}`  
+`function resetBackgroundColor() {  
+//ваш код  
+}`  
 

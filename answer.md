@@ -32,3 +32,10 @@
 ## Задача 8.   
 ### Блокирование полей ввода  
 ![image](https://user-images.githubusercontent.com/113675674/217243482-9947ae29-cb71-4ee3-aef6-548bee22181c.png)  
+
+## Задача 9.   
+### Меняем цвет фона 
+![image](https://user-images.githubusercontent.com/113675674/226314153-adb5396e-0871-40ee-9ad5-3fd989a2cd47.png)  
+
+
+
